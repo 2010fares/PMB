@@ -10,9 +10,9 @@ $Id: ar.xml,v 1.604.2.18 2013-11-13 10:41:00 dgoron Exp $ -->
 <XMLlist>
 <entry code="demo">تجربة</entry>
 <entry code="1000">تعريف</entry>
-<entry code="1001">                                                   PMB</entry>
+<entry code="1001">PMB</entry>
 <entry code="1002">عربية</entry>
-<entry code="1003">                                                         :</entry>
+<entry code="1003"> - </entry>
 <entry code="1005">يوم/ شهر/ سنة</entry>
 <entry code="format_date">%d/%m/%Y</entry>
 <entry code="format_date_input">%d/%d/%d</entry>
@@ -6390,133 +6390,4 @@ $Id: ar.xml,v 1.604.2.18 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="admin_authperso_name">Liste des Autorités personnalisées</entry>
 <entry code="admin_authperso_add">Ajouter</entry>
 
-<entry code="admin_authperso_name_error">Veuillez saisir un nom de template</entry>
-<entry code="admin_authperso_edit">Editer</entry>
-<entry code="admin_authperso_save">Enregistrer</entry>
-<entry code="admin_authperso_exit">Retour</entry>
-<entry code="admin_authperso_delete">Supprimer</entry>
-<entry code="admin_authperso_form_edit">Editer l'autorité</entry>
-<entry code="admin_authperso_form_add">Ajouter une autorité</entry>
-<entry code="admin_authperso_form_name">Nom de l'autorité</entry>
-<entry code="admin_authperso_form_prefixe">Préfixe de l'autorité</entry>
-<entry code="admin_authperso_form_comment">Commentaire</entry>
-<entry code="admin_menu_docs_perso_authperso">Champs autorités perso</entry>
-<entry code="admin_authperso_action">Action</entry>
-<entry code="admin_authperso_edition">Editer</entry>
-<entry code="admin_authperso_return_list">Retour à la liste des Autorités</entry>
-
-<entry code="selector_facettes">Sélection d'une facette</entry>
-<entry code="dsi_ban_form_froup_facette">Grouper les notices par facettes</entry>
-	
-<entry code="admin_import_encodage_fic_source">Choisir l'encodage de la source:</entry>
-<entry code="admin_import_encodage_fic_source_undefine">Détection automatique (fonctionne pour la majorité des cas)</entry>
-<entry code="admin_import_encodage_fic_source_iso8859">Forcer en ISO-8859-1</entry>
-<entry code="admin_import_encodage_fic_source_iso5426">Forcer en ISO-5426 (norme unimarc pour le latin)</entry>
-<entry code="admin_import_encodage_fic_source_utf8">Forcer en UTF-8</entry>
-
-<entry code="nettoyage_clean_indexint">Supprimer les indexations décimales inutilisées</entry>
-<entry code="nettoyage_suppr_indexint">Suppression des indexations décimales inutilisées</entry>
-<entry code="nettoyage_res_suppr_indexint">indexation(s) décimale(s) supprimée(s)</entry>
-	
-<entry code="import_authorite_bad_type">Les autorités du type suivant n'ont pas été importées: </entry>
-<entry code="import_authorities_type_link_subcollection">Importer les sous-collections pour les collections</entry>
-<entry code="import_authorities_type_subcollection">Sous-collections</entry>
-<entry code="import_authorities_import_success">traité(es) avec succès</entry>
-	
-<entry code="connecteurs_sync_de">Synchronisation de</entry>
-<entry code="connecteurs_sync_recu">Nb enregistrements reçus</entry>
-<entry code="connecteurs_sync_nbtotal">Nb total</entry>
-<entry code="connecteurs_sync_annulation">Annulation en cours...</entry>
-
-<entry code="harvest_notice_error">Cette notice n'a pas un ISBN valide. L'utilisation du recolteur n'est donc pas possible</entry>
-<entry code="func_category_auto_reprise"><![CDATA[ -> Catégorie reprise uniquement si elle existe dans le thésaurus (pas de création)]]></entry>
-<entry code="func_category_auto_reprise_suivante">Les catégories seront reprises de la façon suivante: </entry>
-<entry code="serialcirc_error_delete_abt">Un exemplaire de cet abonnement est en cours de circulation</entry>
-<entry code="serialcirc_delete_circ">Supprimer</entry>
-
-<entry code="gen_phonetique">Générer l'index pour la recherche par "stemming" à l'OPAC</entry>
-<entry code="gen_phonetique_en_cours">Génération de l'index pour la recherche par "stemming" à l'OPAC en cours</entry>
-<entry code="gen_phonetique_end">index pour la recherche par "stemming" à l'OPAC générés</entry>
-<entry code="traite_categ_ignore">L'indexation sera ignorée : </entry>
-
-<entry code="tache_duplicate_bouton">Dupliquer</entry>
-<entry code="abonnement_raz_grille">RAZ de la grille</entry>
-<entry code="confirm_raz_grille">Etes-vous sûr de remettre à zéro la grille ?</entry>
-	
-<entry code="fiche_export_excel">Export tableau EXCEL</entry>
-<entry code="fiche_export_tableau">Export tableau HTML</entry>
-<entry code="fiche_export_limite_page1">Afficher</entry>
-<entry code="fiche_export_limite_page2">résultats par page</entry>
-<entry code="persofield_textishtml">Html autorisé</entry>
-
-<entry code="print_output_xml">Fichier xml</entry>
-<entry code="confirm_dsi_ban_diffuser">Voulez-vous diffuser ?</entry>
-<entry code="confirm_dsi_dif_full_auto">Voulez-vous vider, remplir et diffuser ?</entry>
-<entry code="resa_expl_dispo_other_location">Disponible dans une autre localisation.</entry>
-<entry code="dom_prf_raz" >Supprimer les droits calculés</entry>
-
-<entry code="persofield_htmlheight" >Hauteur de l'éditeur (en px)</entry>
-<entry code="persofield_htmlwidth" >Largeur de l'éditeur (en px)</entry>
-
-<entry code="cms_editorial_form_new_section_from_section">Ajouter une rubrique</entry>
-<entry code="cms_editorial_form_new_article_from_section">Ajouter un article</entry>
-
-<entry code="acquisition_fou_used_abt">Il est utilisé par des abonnements de périodiques</entry>
-<entry code="acquisition_fou_suppr_forcage_button">Forcer la suppression</entry>
-<entry code="abonnements_erreur_incrementation">La valeur de l'incrémentation choisie est incorrecte</entry>
-<entry code="abonnements_confirm_gen_grille">L'action "Générer la grille" va ré-initialiser le bulletinage, êtes-vous sûr(e) de vouloir lancer cette action ?</entry>
-<entry code="admin_connecteurs_enrichment_enhancer_default">Défaut</entry>
-
-<entry code="cms_module_common_datasource_desc_logo_exists">Existence du logo</entry>
-
-<entry code="value_deflt_relation_serial">Type de relation par défaut entre notices pour un périodique</entry>
-<entry code="value_deflt_relation_bulletin">Type de relation par défaut entre notices pour une notice de bulletin</entry>
-<entry code="value_deflt_relation_analysis">Type de relation par défaut entre notices pour un article</entry>
-<entry code="deflt_short_loan_activate">En prêt, activer le prêt court par défaut ?</entry>
-<entry code="alert_subscribe_user_mail">Alerter par mail des nouvelles inscriptions OPAC ?</entry>
-<entry code="acquisition_sugg_already_exist">Vous avez déjà effectué cette suggestion</entry>
-<entry code="relance_export_empr_location">Localisation</entry>
-<entry code="relance_export_empr_categ">Catégorie</entry>
-<entry code="relance_export_empr_codestat">Code statistique</entry>
-<entry code="relance_export_empr_statut">Statut</entry>
-<entry code="relance_export_empr_groupes">Groupe(s)</entry>
-<entry code="edit_tpl_duplicate_button">Dupliquer</entry>
-
-<entry code="planificateur_restart_on_failure">Replanifier la tâche si celle-ci a échoué ?</entry>
-<entry code="planificateur_alert_mail_on_failure">Alerter par mail en cas d'arrêt non volontaire ?</entry>
-<entry code="planificateur_mail_on_failure">@ :</entry>
-<entry code="planificateur_task_quotidien">Quotidienne :</entry>
-<entry code="planificateur_task_all_days_of_month">Tous les jours du mois</entry>
-<entry code="task_alert_user_mail_obj">Planificateur de tâches PMB // Tâche interrompue</entry>
-<entry code="task_alert_user_mail_corps"><![CDATA[Bonjour,<br /><br />Nous vous informons que la tâche suivante a été interrompue involontairement : !!task_name!! (!!percent!!%)]]></entry>
-<entry code="admin_error_file_import_modele_lecteur">La fonction d'import lecteurs "%s" n'existe pas</entry>
-<entry code="admin_error_file_import_modele">La fonction d'import "%s" n'existe pas</entry>
-<entry code="admin_error_file_import_modele_z3950">La fonction d'import z3950 "%s" n'existe pas</entry>
-
-<entry code="search_perso_form_requete">Recherche multi-critères correspondante :</entry>
-<entry code="search_perso_modif_requete">Modifier cette recherche</entry>
-<entry code="admin_docs_statut_gestion_financiere_delete_forbidden">Impossible de supprimer ce statut car il est utilisé dans le paramétrage de la gestion des amendes pour les relances.</entry>
-<entry code="chklnk_curl_timeout">Durée maximale de réponse (en secondes)</entry>
-<entry code="group_allow_prolong_members_group">Prolonger l'abonnement des membres</entry>
-<entry code='group_empr_date_adhesion'>Date de début d'adhésion</entry>
-<entry code='group_empr_date_expiration'>Date de fin d'adhésion</entry>
-<entry code='group_empr_date_prolong'>Prolonger jusqu'au</entry>
-<entry code='group_confirm_prolong_members_group'>Confirmez-vous la prolongation d'abonnements des membres du groupe ?</entry>
-
-<entry code="serial_SupEtatColl">Etat(s) de collection à supprimer: </entry>
-<entry code="serial_SupAbo">Abonnement(s) actif(s) à supprimer: </entry>
-<entry code="serial_SupArti">Article(s) à supprimer: </entry>
-<entry code="autoindex_selector_search">Indexation automatique</entry>
-<entry code="autoindex_selector_title">Suggestions d'indexation automatique</entry>
-<entry code="autoindex_selector_lang">Langue cible : </entry>
-<entry code="autoindex_selector_add_all">Tout ajouter</entry>
-
-<entry code="selvars_empr_auth_opac">Connexion automatique à l'OPAC</entry>
-<entry code="empr_transactions">Amende</entry>
-<entry code="empr_transactions_validate">Validée</entry>
-<entry code="empr_transactions_no_validate">Non validée</entry>
-<entry code="acquisition_print_emailsucceed">Email envoyé à %s !</entry>
-<entry code="acquisition_print_emailfailed">Echec de l'envoi à %s !</entry>
-<entry code="edit_resa_expl_location_filter">Localisation de retrait :</entry>
-<entry code="edit_resa_expl_available_filter">Disponible à :</entry>
-</XMLlist>
+<entry code="admin_authperso_name_error">Veuillez saisir 
