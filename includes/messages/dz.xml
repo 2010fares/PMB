@@ -11,7 +11,7 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="demo">تجريب</entry>
 <entry code="1000">اسم المستخدم</entry>
 <entry code="1001">PMB</entry>
-<entry code="1002">fr</entry>
+<entry code="1002">ar</entry>
 <entry code="1003"> - </entry>
 <entry code="1005">d/m/Y</entry>
 <entry code="format_date">%d/%m/%Y</entry>
@@ -2944,7 +2944,7 @@ isseur</entry>
 <entry code="abonnements_periodicite_unite_annee">ann�e</entry>
 <entry code="abonnements_serie">S�rie</entry>
 <entry code="abonnements_hors_serie">Hors-s�rie</entry>
-<entry code="abonnements_attribuer_un_numero">Attribuer un num�ro:</entry>
+<entry code="abonnements_attribuer_entry code=un_numero">Attribuer un num�ro:</entry>
 <entry code="abonnements_nom_modele">Nom du mod�le</entry>
 <entry code="abonnements_periodicite">P�riodicit�</entry>
 <entry code="abonnements_duree_abonnement">Dur�e d'abonnement (en mois)</entry>
@@ -4736,7 +4736,7 @@ isseur</entry>
 <entry code="fichier_form_saisie">Enregistrer une nouvelle fiche</entry>
 <entry code="fiche_save_and_new">Enregistrer et autre saisie</entry>
 <entry code="fichier_reindex_title">R�indexation des fiches</entry>
-<entry code="fichier_reindex_howto">Cette op�ration va entrainer la r�indexation de l'ensemble des fiches.</entry>
+<entry code="fichier_reindex_howto">Cette op�ration va entrainer la r�indexation de l'ensemble des fremote_procedures_importiches.</entry>
 <entry code="fichier_reindex_run">Lancer la r�indexation</entry>
 <entry code="fichier_display_position">Placement des champs</entry>
 <entry code="fichier_display_result_list">Liste des r�sultats</entry>
@@ -5481,3 +5481,4 @@ isseur</entry>
 <entry code="categ_renvoivoiraussi">Cat�gories qui ont un renvoi voir aussi vers celle-ci</entry>
 
 <entry code="group_mail_rappel">Adresser les mails de rappel indivi
+list_crit_form_facette
