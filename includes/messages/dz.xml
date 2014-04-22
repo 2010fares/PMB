@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE XMLlist SYSTEM "../XMLlist.dtd" [<!ENTITY nbsp "&amp;nbsp;">]>
 
 <!-- messages localis�s en fran�ais pour PMB
@@ -8,8 +8,8 @@
 $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 
 <XMLlist>
-<entry code="تجربة">D�mo</entry>
-<entry code="1000">Identification</entry>
+<entry code="demo">تجريب</entry>
+<entry code="1000">اسم المستخدم</entry>
 <entry code="1001">PMB</entry>
 <entry code="1002">fr</entry>
 <entry code="1003"> - </entry>
@@ -2445,7 +2445,8 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="acquisition_rub_lig">Ajouter une rubrique</entry>
 <entry code="acquisition_rub_mnt_error">Le montant des rubriques doit �tre compris entre 0 et 999999.99 !</entry>
 <entry code="acquisition_ajout_fourn">Ajouter un fournisseur</entry>
-<entry code="acquisition_modif_fourn">Modifier un fournisseur</entry>
+<entry code="acquisition_modif_fourn">Modifier un fourn
+isseur</entry>
 <entry code="acquisition_cond_fourn">Conditions de vente</entry>
 <entry code="acquisition_ach_ges">Gestion des achats</entry>
 <entry code="acquisition_ach_fou">Fournisseurs</entry>
