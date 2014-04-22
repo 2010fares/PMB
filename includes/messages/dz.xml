@@ -8,7 +8,7 @@
 $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 
 <XMLlist>
-<entry code="demo">D�mo</entry>
+<entry code="تجربة">D�mo</entry>
 <entry code="1000">Identification</entry>
 <entry code="1001">PMB</entry>
 <entry code="1002">fr</entry>
