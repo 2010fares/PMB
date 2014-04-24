@@ -150,8 +150,8 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="98">رجاءً أدخل الاسم</entry>
 <entry code="99">إضافة رمز</entry>
 <entry code="100">ملاحظة / المعرف سيتولد آلياً عندما يضاف الرمز </entry>
-<entry code="101">إضافة كود إحصائية</entry>
-<entry code="102">تعديل كود إحصائية</entry>
+<entry code="101">إضافة كود إحصائي</entry>
+<entry code="102">تعديل كود إحصائي</entry>
 <entry code="103">Libell�</entry>
 <entry code="104">Catalogue : codes statistiques</entry>
 <entry code="105">Catalogue : localisations</entry>
