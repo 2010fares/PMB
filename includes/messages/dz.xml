@@ -469,9 +469,9 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="418">المعرف خاطيء</entry>
 <entry code="419">التسجيلة تم حذفها</entry>
 <entry code="420">استحالة حذف هذه التسجيلة لوجود أوعية معلومات مشتركة بها</entry>
-<entry code="500">Notices UNIMARC</entry>
-<entry code="501">Cliquez sur Parcourir pour choisir votre fichier puis sur Suivant pour poursuivre le chargement</entry>
-<entry code="502">Suivant</entry>
+<entry code="500">تسجيلات يوني مارك أو متعددة اللغات</entry>
+<entry code="501">أنقر على استعراض و اختر ملفك ثم أنقر على التالي لمواصلة التحميل</entry>
+<entry code="502">التالي</entry>
 <entry code="503"><![CDATA[<br /><br />Les permissions sur le serveur ne permettent pas de transf�rer votre fichier <b>%s</b>.<br /><br />Contactez l'administrateur du serveur...]]></entry>
 <entry code="504"><![CDATA[<br /><br />Echec de la copie du fichier <b>%s</b>.<br /><br />Contactez l'administrateur du serveur...]]></entry>
 <entry code="505"><![CDATA[<br /><br />Le fichier <b>%s</b> a �t� transf�r�, le chargement va se poursuivre automatiquement dans 2 secondes...<br />]]></entry>
@@ -488,79 +488,79 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="516"><![CDATA[Il y avait <b>%s</b> notice(s) � charger, tout a �t� trait�...</b>]]></entry>
 <entry code="517"><![CDATA[ dont <b>%s</b> notice d�j� pr�sente dans la base a �t� ignor�e...]]></entry>
 <entry code="518"><![CDATA[ dont <b>%s</b> notices d�j� pr�sentes dans la base ont �t� ignor�es...]]></entry>
-<entry code="519">Imports</entry>
-<entry code="520">Exemplaires UNIMARC</entry>
+<entry code="519">استيرادات</entry>
+<entry code="520">UNIMARC Items</entry>
 <entry code="521"><![CDATA[<br /><br /><b>%s</b> exemplaire(s) ignor�(s)...]]></entry>
 <entry code="522"><![CDATA[   ]]></entry>
-<entry code="523">Message :</entry>
-<entry code="524">Ajouter une cat�gorie lecteur</entry>
-<entry code="525">Modifier la cat�gorie lecteur</entry>
-<entry code="526">Une solution libre pour la m�diath�que</entry>
-<entry code="527">PMB : logiciel de gestion de m�diath�que</entry>
-<entry code="528">Sauvegarde termin�e</entry>
-<entry code="529">Sauvegarde g�n�rale</entry>
-<entry code="530">Veuillez saisir un nom pour la sauvegarde.</entry>
-<entry code="531">Nom de la sauvegarde</entry>
-<entry code="532">Restauration de la base</entry>
-<entry code="533">Restauration termin�e</entry>
-<entry code="534">Sauvegardes disponibles</entry>
-<entry code="535">Restauration termin�e. Des erreurs ont �t� rencontr�es.</entry>
-<entry code="536">Restaurer</entry>
-<entry code="537">Langues</entry>
-<entry code="538">Liste des erreurs constat�es :</entry>
-<entry code="539">Origine erreur</entry>
-<entry code="540">Erreur</entry>
-<entry code="541">Nb erreur</entry>
-<entry code="542">Notice : existe d�j�</entry>
-<entry code="543">Notice : ISBN vide</entry>
-<entry code="544">Tableau vide</entry>
-<entry code="545">Expl rejet� : Code-barres vide</entry>
-<entry code="546">Expl rejet� : Cote vide</entry>
-<entry code="547">Expl rejet� : Notice = 0</entry>
-<entry code="548">Expl rejet� : TypDoc = 0</entry>
-<entry code="549">Expl rejet� : Section = 0</entry>
-<entry code="550">Expl rejet� : Statut = 0</entry>
-<entry code="551">Expl rejet� : Location = 0</entry>
-<entry code="552">Expl rejet� : Code stat = 0</entry>
-<entry code="553">Expl rejet� : d�j� existant</entry>
-<entry code="554">Propri�taires</entry>
-<entry code="555">Ajouter un propri�taire</entry>
-<entry code="556">Aucun propri�taire d�fini.</entry>
-<entry code="557">Modifier le propri�taire</entry>
-<entry code="558">Nom du propri�taire</entry>
-<entry code="559">Veuillez saisir un nom.</entry>
-<entry code="560">Choisissez votre propri�taire et un statut</entry>
-<entry code="561">Vous devez choisir un propri�taire et un statut...</entry>
-<entry code="562">Choisissez les propri�t�s � appliquer :</entry>
-<entry code="563">Nouveau : </entry>
-<entry code="564">ISBN obligatoire ?</entry>
-<entry code="565">Notice : cr��e avec ISBN vide</entry>
-<entry code="566">Cote obligatoire ?</entry>
-<entry code="567">Exemplaire: cr�� avec cote vide</entry>
-<entry code="568"><![CDATA[D�doublonnage sur ISBN ?]]></entry>
-<entry code="569"><![CDATA[Pointage des import�s]]></entry>
-<entry code="600">Pret de document</entry>
-<entry code="601">!!cb_expl!! : Exemplaire introuvable...</entry>
-<entry code="602">!!cb_expl!! : Exemplaire d�j� pr�t�...</entry>
-<entry code="603">Ce statut de document ( !!cb_statut!! ) indique qu'il n'est pas pr�table...</entry>
-<entry code="604">Le pr�t de ce type de document ( !!cb_type!! ) est de z�ro jour...</entry>
-<entry code="605">Pr�t introuvable...</entry>
-<entry code="606">Aucun code-barres exemplaire fourni...</entry>
-<entry code="607">!!cb_expl!! : Pr�t annul�</entry>
-<entry code="608">!!cb_expl!! : Pr�t prolong�</entry>
+<entry code="523">إشارة : يتم تخصيص المعرف آلياً أثناء إحداث الفرع </entry>
+<entry code="524">إضافة فئة موضوعية للمستفيد أو المستعير</entry>
+<entry code="525">تحرير فئة المستفيد الموضوعية</entry>
+<entry code="526">A free solution for libraries</entry>
+<entry code="527">ARABIC PMB: Library Management Software</entry>
+<entry code="528">انتهاء عملية النسخ الاحتياطي</entry>
+<entry code="529">نسخ احتياطي عام</entry>
+<entry code="530">لطفاً أدخل اسماً للنسخة الاحتياطية</entry>
+<entry code="531">اسم النسخة الاحتياطية</entry>
+<entry code="532">ترميم القاعدة</entry>
+<entry code="533">انتهاء الترميم</entry>
+<entry code="534">النسخ الاحتياطية المتاحة</entry>
+<entry code="535">انتهاء الترميم  تم إيجاد بعض الأخطاء</entry>
+<entry code="536">الترميم</entry>
+<entry code="537">اللغات</entry>
+<entry code="538"> : قائمة الأخطاء الملاحظة </entry>
+<entry code="539">مصدر الخطأ</entry>
+<entry code="540"> خطأ </entry>
+<entry code="541">عدد الأخطاء</entry>
+<entry code="542">التسجيلة : موجودة أصلا</entry>
+<entry code="543">التسجيلة : ردمك فارغ</entry>
+<entry code="544">جدول فارغ</entry>
+<entry code="545">نسخة مرفوضة : الباركود فارغ</entry>
+<entry code="546">نسخة مرفوضة : رقم الاستدعاء فارغ</entry>
+<entry code="547">نسخة مرفوضة : تسجيلة = 0</entry>
+<entry code="548">نسخة مرفوضة : نوع الوثيقة = 0</entry>
+<entry code="549">نسخة مرفوضة : القسم أو الفرع = 0</entry>
+<entry code="550">نسخة مرفوضة : الحالة أو الوضع = 0</entry>
+<entry code="551">نسخة مرفوضة : الموقع = 0</entry>
+<entry code="552">نسخة مرفوضة : رمز إحصائي = 0</entry>
+<entry code="553">نسخة مرفوضة : موجودة أصلاً</entry>
+<entry code="554">المالكون</entry>
+<entry code="555">إضافة مالك</entry>
+<entry code="556">مالك غير محدد أو معرف</entry>
+<entry code="557">تحرير مالك</entry>
+<entry code="558">اسم المالك</entry>
+<entry code="559">إدخل الاسم</entry>
+<entry code="560">اختر المالك و الحالة أو الوضع</entry>
+<entry code="561">يجب اختيار المالك و الحالة أو الوضع</entry>
+<entry code="562">اختيار الحالة و القسم و الموقع</entry>
+<entry code="563"> : جديد </entry>
+<entry code="564"> ردمك  إجباري ؟ </entry>
+<entry code="565">التسجيلة : تم إنشاؤها بردمك فارغ</entry>
+<entry code="566">رمز أو كود إجباري ؟</entry>
+<entry code="567">النسخة : تم إنشاؤها بدون رقم استدعاء </entry>
+<entry code="568"><![CDATA[Split on ISBN ?]]></entry>
+<entry code="569"><![CDATA[Check imported items]]></entry>
+<entry code="600">إعارة وثيقة</entry>
+<entry code="601">!!cb_expl!! : نسخة غير موجودة ...</entry>
+<entry code="602">!!cb_expl!! : نسخة معارة...</entry>
+<entry code="603"> (!!cb_statut!!)  حالة أو وضع الوثيقة يشير إلى أنها غير قابلة للإعارة</entry>
+<entry code="604"> صفر يوم   (!! cb_type!!)  مدةإعارةهذه المادة</entry>
+<entry code="605">إعارة غير موجودة</entry>
+<entry code="606">لم يتم إعطاء أي رمز باركود خاص بالنسخة</entry>
+<entry code="607">!!cb_expl!! : إعــا رة  ملغاة�</entry>
+<entry code="608">!!cb_expl!! : إعارة ممددة�</entry>
 <entry code="609"></entry>
-<entry code="610">!!cb_expl!! : Pret ajout�...</entry>
-<entry code="611">!!cb_expl!! : Exemplaire retourn�...</entry>
-<entry code="650">Aucun exemplaire en pr�t.</entry>
-<entry code="651">Propri�taire</entry>
-<entry code="652">Titre</entry>
-<entry code="653">Date</entry>
-<entry code="654">Retour</entry>
-<entry code="660">Retour de documents</entry>
-<entry code="661">Code-barres de document</entry>
-<entry code="662">!!cb_expl!! : Aucun pr�t en cours</entry>
-<entry code="663">Code</entry>
-<entry code="664">Lecteur</entry>
+<entry code="610">!!cb_expl!! : إعارة مضافة...</entry>
+<entry code="611">!!cb_expl!! : نسخة مرجعة...</entry>
+<entry code="650"> لا توجد إعارات حالياً </entry>
+<entry code="651">المالك</entry>
+<entry code="652">العنوان</entry>
+<entry code="653">التاريخ</entry>
+<entry code="654">رجوع</entry>
+<entry code="660">رجوع وثائق</entry>
+<entry code="661"> رمز باركود خاص بوثيقة</entry>
+<entry code="662">!!cb_expl!! لا وجود لإعارة  جارية </entry>
+<entry code="663">رمز</entry>
+<entry code="664">مستفيد أو مستعير</entry>
 <entry code="701">Actions personnalisables</entry>
 <entry code="702">Veuillez saisir un nom pour cette proc�dure.</entry>
 <entry code="703">Cette proc�dure ne comprend aucune requ�te MySQL.</entry>
@@ -1080,7 +1080,7 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="z3950_tri2">Tri 2</entry>
 <entry code="z3950_nb_result">!!test_resultat!! titre(s)</entry>
 <entry code="z3950_result_rech">R�sultat de la recherche</entry>
-<entry code="z3950_no_result_rech">Aucun r�sultat pour cette recherche</entry>
+<entry code="z3950_no_result_rech">Aucun r�sultat pour cette reentry code=cherche</entry>
 <entry code="z3950_trier">Trier</entry>
 <entry code="z3950_integr_catal">Int�gration en catalogage</entry>
 <entry code="z3950_integr_expl">Int�grer</entry>
@@ -1522,7 +1522,7 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="quotas_nan">La valeur saisie n'est pas un nombre</entry>
 <entry code="quotas_gt_max">Le quota ne peut �tre sup�rieur �</entry>
 <entry code="quotas_lt_min">Le quota ne peut �tre inf�rieur �</entry>
-<entry code="quotas_max_quota">sauf si il y a un quota %s pr�cis�</entry>
+empr_pays<entry code="quotas_max_quota">sauf si il y a un quota %s pr�cis�</entry>
 <entry code="quotas_see_quotas">Voir quotas</entry>
 <entry code="duree_resa">Dur�e de la r�servation</entry>
 <entry code="resa_menu">R�servations</entry>
@@ -2479,7 +2479,8 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="acquisition_liv_arc">archiv�</entry>
 <entry code="acquisition_liv_date_rec">Date de r�ception</entry>
 <entry code="acquisition_ach_fac">Factures</entry>
-<entry code="acquisition_ajout_fac">Nouvelle facture</entry>
+<entry code="acquisition_ajout_fac">Nouvelle fac
+ture</entry>
 <entry code="acquisition_fac_tous">tous</entry>
 <entry code="acquisition_fac_rec">re�u</entry>
 <entry code="acquisition_fac_pay">pay�</entry>
@@ -2970,7 +2971,7 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 <entry code="abonnements_incrementation_selon_volume_1">Tous les </entry>
 <entry code="abonnements_incrementation_selon_volume_2"> volumes</entry>
 <entry code="abonnements_tous_les_numeros">Tous les num�ros</entry>
-<entry code="abonnements_actif">Actif</entry>
+<entry code="abonnements_actifempr_allow_dsi_priv">Actif</entry>
 <entry code="abonnements_commande"></entry>
 <entry code="abonnements_nombre_recu">Nombre re�u</entry>
 <entry code="abonnement_generer_la_grille">G�n�rer la grille</entry>
@@ -5250,7 +5251,7 @@ $Id: fr_FR.xml,v 1.1075.2.19 2013-11-13 10:41:00 dgoron Exp $ -->
 
 <entry code="calendrier_duplicate">Dupliquer pour</entry>
 <entry code="a2z_opac_show">Visible dans le navigateur de p�riodique</entry>
-<entry code="avis_notice_titre">Avis des lecteurs</entry>
+<entry code="avis_noti/entryce_titre">Avis des lecteurs</entry>
 <entry code="acquisition_recept_chg_stat_sug">Changer l'�tat de la suggestion en :</entry>
 <entry code="acquisition_recept_bt_upd_sug">Confirmer</entry>
 <entry code="deflt3receptsugstat">Statut par d�faut en r�ception pour les suggestions</entry>
